@@ -1,4 +1,4 @@
-# BDDGPT-Automate-Tests
+# GPT-Automate-Tests
 ### Automate the BDD acceptance tests/gherkin scenarios/cucumber tests generation for user stories using large language models(LLMs)
   ### - GPT-3.5
   ### - GPT-4
